@@ -1,0 +1,2 @@
+# kge-license
+license key
