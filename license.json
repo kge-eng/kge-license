@@ -1,5 +1,19 @@
 {
   "status": "active",
-  "disabled_serials": []
+  "licenses": {
+    "KGE-001-2026": {
+      "active": true,
+      "fingerprint": null
+    },
+    "KGE-002-2026": {
+      "active": true,
+      "fingerprint": null
+    },
+     "KGE-003-2026": {
+      "active": true,
+      "fingerprint": null
+    },
+  }
 }
+
 
